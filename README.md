@@ -1,5 +1,8 @@
 # gtfs-data
 GTFS feed data for UrbanHack
 
-This feed data is the efforts of creating GTFS feed data from accumulated data from raw data. May not be accurate but has been validated. Please use it with caution for accuracy. We encourage others to commit/push any enriched data from this set or also branch out and contribute new datasets which are GTFS compliant.
-
+* This repository hosts GTFS data for BMTC.
+* This is the result of creating GTFS feed from accumulated raw data from BMTC.
+* The data may not be accurate but, has been validated. Please use it without warranty of any kind.
+* We encourage others to fork this repository, improve the GTFS data and contribute back to community.
+* This might be available only for a shorter span of time. Hence, forking it is always recommended.
